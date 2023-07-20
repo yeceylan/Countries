@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/feedFragment"
-        android:name="com.atilsamancioglu.kotlincountries.view.FeedFragment"
+        android:name="com.yonis.kotlincountries.view.FeedFragment"
         android:label="fragment_feed"
         tools:layout="@layout/fragment_feed" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/countryFragment"
-        android:name="com.atilsamancioglu.kotlincountries.view.CountryFragment"
+        android:name="com.yonis.kotlincountries.view.CountryFragment"
         android:label="fragment_country"
         >
         <action

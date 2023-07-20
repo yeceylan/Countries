@@ -4,10 +4,10 @@
     <data>
         <variable
             name="country"
-            type="com.atilsamancioglu.kotlincountries.model.Country" />
+            type="com.yonis.kotlincountries.model.Country" />
         <variable
             name="listener"
-            type="com.atilsamancioglu.kotlincountries.adapter.CountryClickListener" />
+            type="com.yonis.kotlincountries.adapter.CountryClickListener" />
     </data>
 
 <LinearLayout
